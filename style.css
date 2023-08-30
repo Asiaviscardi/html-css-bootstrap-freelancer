@@ -39,3 +39,8 @@ ul li a:hover{
  .verde{
     background-color: #1abc9c;
  }
+
+ .row img{
+    width: 100%;
+    border-radius: 20px;
+ }
